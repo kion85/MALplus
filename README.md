@@ -13,7 +13,7 @@
 /- ЧИСЛО 	Вычесть: отнять указанное число от регистра R0
 
 Компиляция через GCC/G++
-g++ malplus_vm.cpp -O0 -o malp
+g++ malplus_vm.cpp -O0 -o mal
 
 Запуск
 ./mal
